@@ -1,0 +1,7 @@
+CREATE TABLE table1(
+    id INT PRIMARY KEY,
+);
+
+CREATE TABLE table2(
+    value INT PRIMARY KEY,
+);
